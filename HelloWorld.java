@@ -1,3 +1,3 @@
 public class HelloWorld{
-public  void  display (int a){}
+public  void  display (int b){}
 }
